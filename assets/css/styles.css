@@ -27,3 +27,9 @@ height: 25px;
     font-family: 'Roboto,light';
     font-size: 16px;
 }
+
+img {
+    border-radius: 12px;
+    border: 1rem;
+    border-color:rgb(18, 175, 237);
+}
